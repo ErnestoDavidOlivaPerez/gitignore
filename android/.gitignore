@@ -1,9 +1,0 @@
-*.iml
-.gradle/
-.idea/
-gradlew
-gradlew.bat
-local.properties
-app/src/androidTest
-app/src/test
-app/proguard-rules.pro
