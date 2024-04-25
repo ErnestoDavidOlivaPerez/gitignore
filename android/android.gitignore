@@ -14,4 +14,7 @@ output.json
 
 # IntelliJ
 *.iml
-.idea/
+.idea/*
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+!.idea/dictionaries/
